@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5019C69B-62E2-42E0-B20B-96215111DC62}|Student API Project.csproj|f:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 restful api\\4 student api project v1\\student api project\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019C69B-62E2-42E0-B20B-96215111DC62}|Student API Project.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019C69B-62E2-42E0-B20B-96215111DC62}|Student API Project.csproj|f:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 restful api\\4 student api project v1\\student api project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019C69B-62E2-42E0-B20B-96215111DC62}|Student API Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019C69B-62E2-42E0-B20B-96215111DC62}|Student API Project.csproj|f:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 restful api\\4 student api project v1\\student api project\\data simolation\\studentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019C69B-62E2-42E0-B20B-96215111DC62}|Student API Project.csproj|solutionrelative:data simolation\\studentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019C69B-62E2-42E0-B20B-96215111DC62}|Student API Project.csproj|f:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 restful api\\4 student api project v1\\student api project\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019C69B-62E2-42E0-B20B-96215111DC62}|Student API Project.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:30:16.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
+              "ToolTip": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Controllers\\StudentAPIController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwFIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:33:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsData.cs",
+              "DocumentMoniker": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Data Simolation\\StudentsData.cs",
+              "RelativeDocumentMoniker": "Data Simolation\\StudentsData.cs",
+              "ToolTip": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Data Simolation\\StudentsData.cs",
+              "RelativeToolTip": "Data Simolation\\StudentsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:26:49.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:24:28.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\appsettings.Development.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\appsettings.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Student API Project.exe
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Student API Project.deps.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Student API Project.runtimeconfig.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Student API Project.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Student API Project.pdb
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.csproj.AssemblyReference.cache
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.AssemblyInfoInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.AssemblyInfo.cs
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.csproj.CoreCompileInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.MvcApplicationPartsAssemblyInfo.cs
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.MvcApplicationPartsAssemblyInfo.cache
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\staticwebassets.build.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\staticwebassets.development.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\staticwebassets\msbuild.Student API Project.Microsoft.AspNetCore.StaticWebAssets.props
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Student API Project.props
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Student API Project.props
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Student API Project.props
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\staticwebassets.pack.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\scopedcss\bundle\Student API Project.styles.css
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student .163E0721.Up2Date
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\refint\Student API Project.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.pdb
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.genruntimeconfig.cache
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\ref\Student API Project.dll

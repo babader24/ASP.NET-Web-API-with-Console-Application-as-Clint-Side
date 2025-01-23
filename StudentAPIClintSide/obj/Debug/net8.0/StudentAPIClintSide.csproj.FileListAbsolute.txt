@@ -1,0 +1,14 @@
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\bin\Debug\net8.0\StudentAPIClintSide.exe
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\bin\Debug\net8.0\StudentAPIClintSide.deps.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\bin\Debug\net8.0\StudentAPIClintSide.runtimeconfig.json
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\bin\Debug\net8.0\StudentAPIClintSide.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\bin\Debug\net8.0\StudentAPIClintSide.pdb
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.GeneratedMSBuildEditorConfig.editorconfig
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.AssemblyInfoInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.AssemblyInfo.cs
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.csproj.CoreCompileInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\refint\StudentAPIClintSide.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.pdb
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.genruntimeconfig.cache
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\ref\StudentAPIClintSide.dll

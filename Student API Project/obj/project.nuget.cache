@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4zSt7+nUcLdbVctm0lTsz4b8tk5GK45k23TkgJXuzxBvLnkTmmK1XgjOpH9iUbXF7Jef3guUXqM7ZIKgJmeAg==",
+  "success": true,
+  "projectFilePath": "F:\\تاسيس ابو هدهود\\كورس رقم 25 مقدمه عن Restful API\\4 Student API Project v1\\Student API Project\\Student API Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed babeder\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed babeder\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ahmed babeder\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmed babeder\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmed babeder\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmed babeder\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
