@@ -42,8 +42,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T09:30:16.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T09:30:16.022Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
               "ToolTip": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 25 \u0645\u0642\u062F\u0645\u0647 \u0639\u0646 Restful API\\4 Student API Project v1\\Student API Project\\Controllers\\StudentAPIController.cs",
               "RelativeToolTip": "Controllers\\StudentAPIController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAwFIAAAACAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T08:33:14.232Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Data Simolation\\StudentsData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:26:49.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:26:49.58Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:24:28.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:24:28.571Z"
             }
           ]
         }

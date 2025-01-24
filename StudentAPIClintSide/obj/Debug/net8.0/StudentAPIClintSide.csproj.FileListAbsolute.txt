@@ -12,3 +12,4 @@ F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4
 F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.pdb
 F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.genruntimeconfig.cache
 F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\ref\StudentAPIClintSide.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\StudentAPIClintSide\obj\Debug\net8.0\StudentAPIClintSide.sourcelink.json

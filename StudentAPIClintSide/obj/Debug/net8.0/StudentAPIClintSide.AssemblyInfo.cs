@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentAPIClintSide")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e96a5de0eb77e04714a74dae3aedb7429fd85277")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentAPIClintSide")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentAPIClintSide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
