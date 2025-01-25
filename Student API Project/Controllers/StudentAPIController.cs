@@ -79,6 +79,25 @@ namespace Student_API_Project.Controllers
 			return CreatedAtRoute("GetStudentById", new {id = student.StudentId},student);
 		}
 
+		[HttpDelete("{id}", Name = "DeleteStudent")]
+		[ProducesResponseType(StatusCodes.Status200OK)]
+		[ProducesResponseType(StatusCodes.Status400BadRequest)]
+		[ProducesResponseType(StatusCodes.Status400BadRequest)]
+		[ProducesResponseType(StatusCodes.Status404NotFound)]
+
+		public ActionResult<Student> DeleteStudent(int id)
+		{
+			if(id < 1)
+				return BadRequest($"the ID: {id} , Not Accepted");
+
+			var student = StudentsData.studentsList.FirstOrDefault(x => x.StudentId == id);
+			if(student == null)
+				return NotFound($"Student with Id: {id} Not Found");
+
+			StudentsData.studentsList.Remove(student);
+
+			return Ok($"Student With ID: {id} has been deleted");
+		}
 
 	}
 }

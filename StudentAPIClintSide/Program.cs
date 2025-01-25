@@ -25,6 +25,10 @@ class Program
 		await AddNewStudent(newStudent);
 
 		await GetAllStudent();
+
+		await DeleteStudent(1);
+
+		await GetAllStudent();
 	}
 
 	static async Task GetAllStudent()
@@ -151,6 +155,7 @@ class Program
 			{
 				Console.WriteLine("Bad Request: Invalid student data.");
 			}
+
 		}
 		catch (Exception ex)
 		{
@@ -158,6 +163,23 @@ class Program
 		}
 	}
 
+	static async Task DeleteStudent(int id)
+	{
+		try
+		{	Console.WriteLine("\n_____________________________");
+			Console.WriteLine($"\nDeleteing student with ID: {id}...\n");
+
+			var response = await httpClient.DeleteAsync($"{id}");
+
+			Console.WriteLine(await response.Content.ReadAsStringAsync());
+
+		}
+		catch (Exception ex)
+		{
+			Console.WriteLine($"An error occurred: {ex.Message}");
+		}
+
+	}
 	public class Student
 	{
 		public int StudentId { get; set; }

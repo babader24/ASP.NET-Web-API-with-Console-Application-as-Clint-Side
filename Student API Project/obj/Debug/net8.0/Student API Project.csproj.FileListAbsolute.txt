@@ -30,3 +30,4 @@ F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4
 F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.pdb
 F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.genruntimeconfig.cache
 F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\ref\Student API Project.dll
+F:\تاسيس ابو هدهود\كورس رقم 25 مقدمه عن Restful API\4 Student API Project v1\Student API Project\obj\Debug\net8.0\Student API Project.sourcelink.json
