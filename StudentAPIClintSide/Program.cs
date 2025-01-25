@@ -29,6 +29,12 @@ class Program
 		await DeleteStudent(1);
 
 		await GetAllStudent();
+
+		newStudent = new Student { Name = "Ali Salim", Age = 20, Grade = 70 };
+		await UpdateStudent(2, newStudent);
+
+		await GetAllStudent();
+
 	}
 
 	static async Task GetAllStudent()
@@ -179,6 +185,31 @@ class Program
 			Console.WriteLine($"An error occurred: {ex.Message}");
 		}
 
+	}
+
+
+	static async Task UpdateStudent(int  id, Student newStudent)
+	{
+		try
+		{
+			Console.WriteLine("\n_____________________________");
+			Console.WriteLine($"\nUpdate student with ID: {id}...\n");
+
+			var response = await httpClient.PutAsJsonAsync($"{id}", newStudent);
+
+			if(response.IsSuccessStatusCode)
+			{
+				Console.WriteLine($"ID: {id}, Name: {newStudent.Name}, Age: {newStudent.Age}, Grade: {newStudent.Grade}");
+
+			}
+			else
+				Console.WriteLine(await response.Content.ReadAsStringAsync());
+
+		}
+		catch (Exception ex)
+		{
+			Console.WriteLine($"An error occurred: {ex.Message}");
+		}
 	}
 	public class Student
 	{
